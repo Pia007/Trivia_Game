@@ -1,0 +1,32 @@
+MVP: Trivia Game
+
+User is greeted and provided with game instructions.
+    - how to play 
+    - mode of play - quick, regular or extended game
+        - based on points required to win
+        - pts per correct answer
+    - skill level - easy, medium, hard, insane
+        - insane level has one word input answers
+    - category - random, or select a category
+    - allowed one skip question based on skill selected
+    - allowed one hint per question based on skill selected
+User is asked for their name.
+    - program refers to user by name
+User is asked to:
+    - select mode of play
+    - select skill level ( easy, medium, hard, insane)
+    - asked to select a category or random category
+User is presented with a question based on skill level selected
+User is given option to quit at any time. 
+    - quit forfeits game and points
+    - quit returns user to main menu 
+        - option to start new game or exit   
+
+Stretch Goals: 
+    User tally of number of questions answered correctly
+    Additional Points for answering 3 consecutive questions correctly
+    Bonus Categories
+
+Research
+    A trivia API
+
