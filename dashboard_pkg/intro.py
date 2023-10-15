@@ -16,7 +16,7 @@ def show_intro():
 
 
     print(f"🌟{border_horizontal}⭐")
-    print(f"{border_side}                                                        {border_side}")
+    print(border_side)
     print(text) 
     print(border_side)                    
     print(border_side)                    
