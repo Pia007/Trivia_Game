@@ -1,0 +1,34 @@
+{
+    "easy": [
+        {
+            "question": "What is the capital of Australia?",
+            "correct_answer": "Canberra",
+            "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+        },
+        {
+            "question": "What is the largest country in the world?",
+            "correct_answer": "Russia",
+            "incorrect_answers": ["China", "United States", "Canada"]
+        },
+        {
+            "question": "What is the largest ocean in the world?",
+            "correct_answer": "Pacific",
+            "incorrect_answers": ["Atlantic", "Indian", "Arctic"]
+        },
+        {
+            "question": "What is the largest planet in the solar system?",
+            "correct_answer": "Jupiter",
+            "incorrect_answers": ["Mars", "Saturn", "Earth"]
+        },
+        {
+            "question": "What is the capital of the United States?",
+            "correct_answer": "Washington D.C.",
+            "incorrect_answers": ["New York City", "Los Angeles", "Chicago"]
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "correct_answer": "Ottawa",
+            "incorrect_answers": ["Toronto", "Montreal", "Vancouver"]
+        }
+    ]
+}

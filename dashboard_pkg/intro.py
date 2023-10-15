@@ -11,9 +11,6 @@ def show_intro():
     dash_options_2 = fontstyle.apply('|     | 3. Stats             |     4. Exit         |     |', 'bold/italic/cyan')
     print("")
 
-    # print(text)
-    # print(border_side)
-
 
     print(f"🌟{border_horizontal}⭐")
     print(border_side)
@@ -29,5 +26,21 @@ def show_intro():
     print(border_side)                    
     print(border_side) 
     print(f"🌟{border_horizontal}⭐")
+
+
+
+def show_difficulty():
+    difficulty_text = fontstyle.apply('       ===  Difficulty Level ===           ', 'bold/italic/yellow')
+    difficulty_horizontal = fontstyle.apply('----------------------------------------', 'bold/italic/yellow')
+    difficulty_selections = fontstyle.apply('|   1. Easy       |   2. Average       |   ', 'bold/italic/yellow')
+    difficulty_selections_2 = fontstyle.apply('|   3. Hard       |   4. Home          |', 'bold/italic/yellow')
+
+    print("")   
+    print(f"{difficulty_text}")
+    print(difficulty_horizontal)
+    print(difficulty_selections)
+    print(difficulty_horizontal)
+    print(difficulty_selections_2)
+    print(difficulty_horizontal)
     
     
